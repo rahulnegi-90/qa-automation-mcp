@@ -1,0 +1,13 @@
+{
+  "client": "copilot",
+  "tools": {
+    "test_case_generator": {
+      "type": "prompt",
+      "file": "prompts/generate_test_cases.md"
+    },
+    "selenium_test_builder": {
+      "type": "prompt",
+      "file": "prompts/create_selenium_tests.md"
+    }
+  }
+}
